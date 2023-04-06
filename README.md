@@ -3,7 +3,11 @@
 Overview/Abstract
 We attempted to replicate the magnetoencephalography analysis performed by Gramfort et al. with their time-frequency mixed-norm estimates (TF-MxNE) algorithm [1] using the MNE-Python software suite [2] to determine the brain regions most involved in processing images shown to the left eye. The source locations and their amplitudes were found, and these results were projected back into the MEG sensor space to determine how much of the data could be explained. Further analysis was performed with the SPM Faces dataset [3], which provides MEG data on the responses to being shown a normal or a scrambled face, in order to discover which regions may be involved in recognizing human faces. The dSPM [4], sLORETA [5], γ-MAP [6], and TF-MxNE solvers were used on the faces dataset to determine the robustness of these inverse techniques.
 
+
+
 Full Paper: https://docs.google.com/document/d/15NtHK_71ab98F-WZmyJcLVUbvfW_o5FuVuSxiAeh_C4/edit?usp=sharing
+
+
 
 References
 [1] 	Gramfort, A., Strohmeier, D., Haueisen, J., Hämäläinen, M. S., & Kowalski, M. (2013). Time-frequency mixed-norm estimates: sparse M/EEG imaging with non-stationary source activations. NeuroImage, 70, 410–422. https://doi.org/10.1016/j.neuroimage.2012.12.051
