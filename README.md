@@ -1,6 +1,5 @@
 # MNE-Python-Analysis
 
-Overview/Abstract
 We attempted to replicate the magnetoencephalography analysis performed by Gramfort et al. with their time-frequency mixed-norm estimates (TF-MxNE) algorithm [1] using the MNE-Python software suite [2] to determine the brain regions most involved in processing images shown to the left eye. The source locations and their amplitudes were found, and these results were projected back into the MEG sensor space to determine how much of the data could be explained. Further analysis was performed with the SPM Faces dataset [3], which provides MEG data on the responses to being shown a normal or a scrambled face, in order to discover which regions may be involved in recognizing human faces. The dSPM [4], sLORETA [5], γ-MAP [6], and TF-MxNE solvers were used on the faces dataset to determine the robustness of these inverse techniques.
 
 
