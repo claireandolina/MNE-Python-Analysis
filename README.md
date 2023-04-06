@@ -5,7 +5,7 @@ We attempted to replicate the magnetoencephalography analysis performed by Gramf
 
 
 
-Our full Paper: https://docs.google.com/document/d/15NtHK_71ab98F-WZmyJcLVUbvfW_o5FuVuSxiAeh_C4/edit?usp=sharing
+Our written report: https://docs.google.com/document/d/15NtHK_71ab98F-WZmyJcLVUbvfW_o5FuVuSxiAeh_C4/edit?usp=sharing
 
 
 
