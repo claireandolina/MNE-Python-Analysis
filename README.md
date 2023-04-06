@@ -10,6 +10,7 @@ Our written report: https://docs.google.com/document/d/15NtHK_71ab98F-WZmyJcLVUb
 
 
 References
+
 [1] 	Gramfort, A., Strohmeier, D., Haueisen, J., Hämäläinen, M. S., & Kowalski, M. (2013). Time-frequency mixed-norm estimates: sparse M/EEG imaging with non-stationary source activations. NeuroImage, 70, 410–422. https://doi.org/10.1016/j.neuroimage.2012.12.051
 
 [2] Gramfort, A., Luessi, M., Larson, E., Engemann, D. A., Strohmeier, D., Brodbeck, C., Goj, R., Jas, M., Brooks, T., Parkkonen, L., & Hämäläinen, M. (2013). MEG and EEG data analysis with MNE-Python. Frontiers in neuroscience, 7, 267. https://doi.org/10.3389/fnins.2013.00267
